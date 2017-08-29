@@ -1,0 +1,11 @@
+# Level 6
+# -------
+# file/directory di sini di-ignore oleh Git
+#
+# Untuk melanjutkan ke level 7, temukan siapa yang paling banyak
+# melakukan commit. Checkout ke branch yang sesuai namanya.
+#
+
+nbproject
+.project
+.settings
