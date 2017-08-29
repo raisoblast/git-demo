@@ -1,0 +1,25 @@
+From cbb9d888fc0c78e4873e4561d0333d433618d4dc Mon Sep 17 00:00:00 2001
+From: Arif Kurniawan <arifk97@gmail.com>
+Date: Tue, 29 Aug 2017 11:12:30 +0700
+Subject: [PATCH] code4life 1
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index e57331e..d207203 100644
+--- a/index.html
++++ b/index.html
+@@ -70,7 +70,7 @@
+             <div class="navbar-header">
+                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
+                 <a href="javascript:void(0);" class="bars"></a>
+-                <a class="navbar-brand" href="index.html">Git Sesi III</a>
++                <a class="navbar-brand" href="index.html">Git Sesi III - [&#85;&#66;&#65;&#89;&#65;]</a>
+             </div>
+             <div class="collapse navbar-collapse" id="navbar-collapse">
+                 <ul class="nav navbar-nav navbar-right">
+-- 
+2.14.1
+
